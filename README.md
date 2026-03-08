@@ -37,33 +37,6 @@ project/
 
 ---
 
-# ⚙️ Stack Tecnológico
-
-### Blockchain
-
-* **Solana**
-
-### Framework
-
-* **Anchor Framework**
-
-### Lenguajes
-
-* **Rust** → Smart Contract
-* **TypeScript** → Cliente + Testing
-
-### Librerías
-
-* `@coral-xyz/anchor`
-* `solana-web3.js`
-
-### Entorno
-
-* **Solana Playground**
-* **Anchor CLI**
-* **Solana Test Validator**
-
----
 
 # 🧠 Cómo Funciona la Aplicación
 
@@ -508,7 +481,7 @@ Este proyecto utiliza varios conceptos importantes del ecosistema Solana:
 
 # 👨‍💻 Autor
 
-Proyecto educativo para aprendizaje de:
+Proyecto educativo para aprendizaje de: Jose Medina (DeiNas77)
 
 * Solana Development
 * Anchor Framework
@@ -520,3 +493,4 @@ Proyecto educativo para aprendizaje de:
 # 📜 Licencia
 
 MIT
+
